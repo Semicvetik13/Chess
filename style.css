@@ -1,0 +1,24 @@
+.NAME 
+{
+   font-size: 28px;
+   font-weight: 700;
+}
+.BIRTHDAY
+{
+   color: green;
+}
+.CHAMPION
+{
+   color: red;
+   font-weight: bold;
+}
+.INFO
+{
+   font-style: italic;
+   color: blue;
+}
+#MAIN
+{
+   border: solid 1px;
+   border-color: red;
+}
